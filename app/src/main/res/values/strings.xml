@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P06 Demo ScheduledNotification</string>
+    <string name="launchText">Launch Notification in 5 seconds</string>
+
+</resources>
